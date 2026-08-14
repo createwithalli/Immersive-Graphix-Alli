@@ -1,4 +1,6 @@
-# Immersive-Graphix-<div align="center">
+# Immersive-Graphix-Alli
+
+<div align="center">
 
   <!-- Animated Typing Banner Header -->
   <a href="https://github.com/createwithalli">
@@ -22,4 +24,3 @@
   <br />
 
 </div>
-
