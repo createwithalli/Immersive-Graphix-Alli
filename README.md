@@ -10,6 +10,10 @@
     <b>Designing immersive 3D web experiences, crafting AI prompts, and exploring cybersecurity.</b>
   </p>
 
+  <p align="center">
+    📌 <b>Pinned Repo #1:</b> Immersive-Graphix-Alli
+  </p>
+
   <!-- Key Stack & Tools Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
@@ -22,4 +26,3 @@
   <br />
 
 </div>
-
